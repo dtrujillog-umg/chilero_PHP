@@ -1,0 +1,65 @@
+[2020-10-08 20:55:49] Could not instantiate mail function.
+[2020-10-08 20:55:47] Could not instantiate mail function.
+[2020-10-08 20:55:21] Could not instantiate mail function.
+[2020-10-08 20:55:19] Could not instantiate mail function.
+[2020-10-08 20:10:32] Could not instantiate mail function.
+[2020-10-08 20:10:30] Could not instantiate mail function.
+[2020-10-08 20:07:50] Could not instantiate mail function.
+[2020-10-08 20:07:47] Could not instantiate mail function.
+[2020-10-08 20:06:08] Could not instantiate mail function.
+[2020-10-08 20:06:06] Could not instantiate mail function.
+[2020-10-08 19:56:04] Could not instantiate mail function.
+[2020-10-08 19:56:02] Could not instantiate mail function.
+[2020-10-08 19:55:04] Could not instantiate mail function.
+[2020-10-08 19:55:02] Could not instantiate mail function.
+[2020-10-08 19:53:48] Could not instantiate mail function.
+[2020-10-08 19:53:46] Could not instantiate mail function.
+[2020-10-08 19:19:19] You must provide at least one recipient email address.
+[2020-10-08 19:19:19] Could not instantiate mail function.
+[2020-10-08 19:17:35] You must provide at least one recipient email address.
+[2020-10-08 19:17:35] Could not instantiate mail function.
+[2020-10-08 19:13:08] You must provide at least one recipient email address.
+[2020-10-08 19:13:08] Could not instantiate mail function.
+[2020-10-08 19:11:51] You must provide at least one recipient email address.
+[2020-10-08 19:11:51] Could not instantiate mail function.
+[2020-10-08 19:10:51] You must provide at least one recipient email address.
+[2020-10-08 19:10:51] Could not instantiate mail function.
+[2020-10-08 19:10:46] You must provide at least one recipient email address.
+[2020-10-08 19:10:46] Could not instantiate mail function.
+[2020-10-08 18:49:12] You must provide at least one recipient email address.
+[2020-10-08 18:49:12] Could not instantiate mail function.
+[2020-10-08 18:48:28] You must provide at least one recipient email address.
+[2020-10-08 18:48:28] Could not instantiate mail function.
+[2020-10-08 18:48:23] You must provide at least one recipient email address.
+[2020-10-08 18:48:23] Could not instantiate mail function.
+[2020-10-08 18:48:08] You must provide at least one recipient email address.
+[2020-10-08 18:48:08] Could not instantiate mail function.
+[2020-10-08 18:47:43] You must provide at least one recipient email address.
+[2020-10-08 18:47:43] Could not instantiate mail function.
+[2020-10-08 18:47:18] You must provide at least one recipient email address.
+[2020-10-08 18:47:18] Could not instantiate mail function.
+[2020-10-08 18:47:08] You must provide at least one recipient email address.
+[2020-10-08 18:47:08] Could not instantiate mail function.
+[2020-10-08 18:42:51] You must provide at least one recipient email address.
+[2020-10-08 18:42:51] Could not instantiate mail function.
+[2020-10-08 18:42:46] You must provide at least one recipient email address.
+[2020-10-08 18:42:46] Could not instantiate mail function.
+[2020-10-08 18:39:05] You must provide at least one recipient email address.
+[2020-10-08 18:39:05] Could not instantiate mail function.
+[2020-10-08 18:38:57] You must provide at least one recipient email address.
+[2020-10-08 18:38:57] Could not instantiate mail function.
+[2020-10-08 18:38:51] You must provide at least one recipient email address.
+[2020-10-08 18:38:51] Could not instantiate mail function.
+[2020-10-08 18:29:25] You must provide at least one recipient email address.
+[2020-10-08 18:29:25] Could not instantiate mail function.
+[2020-10-08 18:27:04] You must provide at least one recipient email address.
+[2020-10-08 18:27:04] Could not instantiate mail function.
+[2020-10-08 18:26:10] You must provide at least one recipient email address.
+[2020-10-08 18:26:10] Could not instantiate mail function.
+[2019-12-02 13:13:50] You must provide at least one recipient email address.
+[2019-11-18 19:28:30] You must provide at least one recipient email address.
+[2019-11-18 19:28:30] Could not instantiate mail function.
+[2019-11-18 19:28:19] You must provide at least one recipient email address.
+[2019-11-18 19:28:19] Could not instantiate mail function.
+[2019-11-18 17:22:29] You must provide at least one recipient email address.
+[2019-11-18 17:22:29] Could not instantiate mail function.

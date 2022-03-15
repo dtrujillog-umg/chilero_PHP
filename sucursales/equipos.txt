@@ -1,0 +1,15 @@
+No Aplica
+Antena
+Caja registrador
+Cámara
+Computador
+Monitor
+NAS
+Impresora
+Periféricos (otros)
+Ratón
+Regulador
+Router
+Swith
+Teclado
+UPS
